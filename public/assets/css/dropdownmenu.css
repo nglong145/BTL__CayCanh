@@ -1,0 +1,14 @@
+.dropdown-menu {
+    min-width: auto; /* Chỉnh kích thước menu xuống theo nội dung */
+    background-color: blue; /* Màu nền */
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1); /* Đổ bóng */
+    border: none; /* Loại bỏ viền */
+}
+
+.dropdown-menu a {
+    color: #333; /* Màu chữ */
+}
+
+.dropdown-menu a:hover {
+    background-color: blue; /* Màu nền khi hover */
+}
